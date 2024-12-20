@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/jihc_events_app/static/css/main.0093e4ce.css",
-    "main.js": "/jihc_events_app/static/js/main.084a350e.js",
+    "main.js": "/jihc_events_app/static/js/main.a929cca3.js",
     "static/media/hero.jpg": "/jihc_events_app/static/media/hero.77cd37677cc475df2ae8.jpg",
     "index.html": "/jihc_events_app/index.html",
     "main.0093e4ce.css.map": "/jihc_events_app/static/css/main.0093e4ce.css.map",
-    "main.084a350e.js.map": "/jihc_events_app/static/js/main.084a350e.js.map"
+    "main.a929cca3.js.map": "/jihc_events_app/static/js/main.a929cca3.js.map"
   },
   "entrypoints": [
     "static/css/main.0093e4ce.css",
-    "static/js/main.084a350e.js"
+    "static/js/main.a929cca3.js"
   ]
 }
