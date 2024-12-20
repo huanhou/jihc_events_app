@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7290c31aefadbcb0bdeca67678915694",
+    "revision": "da208c68b5e77a1d1bb5f75bfdd24d49",
     "url": "/jihc_events_app/index.html"
   },
   {
-    "revision": "3af8b9615331f9832ac7",
-    "url": "/jihc_events_app/static/css/main.3bd981ef.chunk.css"
+    "revision": "431e72946531a6ce670f",
+    "url": "/jihc_events_app/static/css/main.38bb948c.chunk.css"
   },
   {
     "revision": "41faeffc5429603d8031",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/jihc_events_app/static/js/2.2c9ab0fc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3af8b9615331f9832ac7",
+    "revision": "431e72946531a6ce670f",
     "url": "/jihc_events_app/static/js/main.020eab2a.chunk.js"
   },
   {
