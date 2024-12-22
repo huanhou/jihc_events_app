@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/jihc_events_app/static/css/main.3ad786ad.chunk.css",
-    "main.js": "/jihc_events_app/static/js/main.020eab2a.chunk.js",
-    "main.js.map": "/jihc_events_app/static/js/main.020eab2a.chunk.js.map",
+    "main.css": "/jihc_events_app/static/css/main.67228f70.chunk.css",
+    "main.js": "/jihc_events_app/static/js/main.3bddd671.chunk.js",
+    "main.js.map": "/jihc_events_app/static/js/main.3bddd671.chunk.js.map",
     "runtime-main.js": "/jihc_events_app/static/js/runtime-main.24581942.js",
     "runtime-main.js.map": "/jihc_events_app/static/js/runtime-main.24581942.js.map",
     "static/js/2.2c9ab0fc.chunk.js": "/jihc_events_app/static/js/2.2c9ab0fc.chunk.js",
     "static/js/2.2c9ab0fc.chunk.js.map": "/jihc_events_app/static/js/2.2c9ab0fc.chunk.js.map",
     "index.html": "/jihc_events_app/index.html",
-    "precache-manifest.80e126b463cd76ebdbf3a9e335c36e55.js": "/jihc_events_app/precache-manifest.80e126b463cd76ebdbf3a9e335c36e55.js",
+    "precache-manifest.2833d213d15ec9e11eb674c0cd14d6d3.js": "/jihc_events_app/precache-manifest.2833d213d15ec9e11eb674c0cd14d6d3.js",
     "service-worker.js": "/jihc_events_app/service-worker.js",
-    "static/css/main.3ad786ad.chunk.css.map": "/jihc_events_app/static/css/main.3ad786ad.chunk.css.map",
+    "static/css/main.67228f70.chunk.css.map": "/jihc_events_app/static/css/main.67228f70.chunk.css.map",
     "static/js/2.2c9ab0fc.chunk.js.LICENSE.txt": "/jihc_events_app/static/js/2.2c9ab0fc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.24581942.js",
     "static/js/2.2c9ab0fc.chunk.js",
-    "static/css/main.3ad786ad.chunk.css",
-    "static/js/main.020eab2a.chunk.js"
+    "static/css/main.67228f70.chunk.css",
+    "static/js/main.3bddd671.chunk.js"
   ]
 }
